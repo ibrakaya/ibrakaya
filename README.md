@@ -1,6 +1,6 @@
 <h1>Hi there, I'm ibrahim  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br />
-<h1> I'm an Engineer 👨‍💻 </h1>
+<h1> 👨‍💻 I'm an Engineer </h1>
 
 - ⚡ Electric And Electronic Engineer
 - 💻 Flutter / React Developer
